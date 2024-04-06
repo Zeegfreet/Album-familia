@@ -1,0 +1,37 @@
+.container {
+    width: 70vw;
+    margin: 0 auto;
+    min-height: 46vh;
+    border-left: 2px solid var(--cor-secundaria-maior);
+    border-right: 2px solid var(--cor-secundaria-maior);
+}
+
+
+.conteudo__fotos {
+    display: flex;
+    gap: 0.8em;
+    flex-wrap: wrap;
+    padding: 1em;
+    justify-content: space-around;
+}
+
+.conteudo__fotos__foto {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid var(--cor-secundaria);
+    padding: 0.5em;
+    width: 340px;
+    height: 485px;
+    border-radius: 0.5em;
+}
+
+.conteudo__fotos__foto img {
+    width: 100%;
+}
+
+.conteudo__fotos__foto__titulo {
+    background-color: var(--cor-secundaria-maior);
+    text-align: center;
+    font-size: large;
+    border-radius: 0.3em 0.3em 0 0;
+}

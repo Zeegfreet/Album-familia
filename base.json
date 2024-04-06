@@ -41,18 +41,8 @@
         "local": "./fotos/nos-no-elevador.jpeg"
     },
     {
-        "id": 10,
-        "titulo": "Dia no Porccino",
-        "local": "./fotos/porccino.jpeg"
-    },
-    {
         "id": 11,
         "titulo": "Noah No Shopping",
         "local": "./fotos/noah-tartaruga.jpeg"
-    },
-    {
-        "id": 12,
-        "titulo": "Eu Bebo em BG",
-        "local": "./fotos/bebo-em-bg.jpeg"
     }
 ]

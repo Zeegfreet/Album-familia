@@ -44,5 +44,15 @@
         "id": 11,
         "titulo": "Noah No Shopping",
         "local": "./fotos/noah-tartaruga.jpeg"
+    },
+    {
+        "id": 12,
+        "titulo": "Pagamos mas Ficou Bonita",
+        "local": "./fotos/foto-profissional.JPG"
+    },
+    {
+        "id": 13,
+        "titulo": "Dá para entender o vício né?",
+        "local": "./fotos/harry-potter.JPG"
     }
 ]

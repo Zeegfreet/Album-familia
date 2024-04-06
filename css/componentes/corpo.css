@@ -1,9 +1,15 @@
 .container {
     width: 70vw;
     margin: 0 auto;
-    min-height: 46vh;
+    min-height: 30vh;
     border-left: 2px solid var(--cor-secundaria-maior);
     border-right: 2px solid var(--cor-secundaria-maior);
+}
+
+.conteudo__descricao {
+    padding: 0.5em;
+    background-color: var(--cor-secundaria-maior);
+    color: var(--cor-primaria-maior);
 }
 
 

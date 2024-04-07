@@ -54,5 +54,10 @@
         "id": 13,
         "titulo": "Dá para entender o vício né?",
         "local": "./fotos/harry-potter.JPG"
+    },
+    {
+        "id": 14,
+        "titulo": "Sonserina não, sonserina não!",
+        "local": "./fotos/baby-chapeu-seletor.JPG"
     }
 ]
